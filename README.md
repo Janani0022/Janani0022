@@ -5,7 +5,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIATE.**
   
-- 🌱 Currently learning frameworks by Self.
+- 🌱 Junior Full-Stack Developer.
 
 - 📫 How to reach me: **jananirasanjali022@gmail.com**
 
